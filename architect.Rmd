@@ -1,7 +1,7 @@
 ---
-title: "Example Portfolio"
-author: "Carole Voulgaris"
-date: "10/12/2021"
+title: "Le Yang's Rstudio Portfolio"
+author: "Le Yang"
+date: "10/17/2021"
 output: 
   prettydoc::html_pretty:
     theme: architect
@@ -12,8 +12,6 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 Hello my name is Le. I am an architect and urban designer that currently having master's degree study at Harvard GSD. This is my portfolio of Spatial Analysis class that demonstrate my skills of RStudio.
-
-Many appreciation for you to be interested in my work and my skills.
 
 This portfolio demonstrate each of the following skills (not all of which are demonstrated in this example):
 
@@ -62,7 +60,7 @@ This map shows accessibility based on a distance-decay function of the walking t
 [![](thumbnails/Portfolio_Page_3.png)(https://lyanggsd.github.io/Le-Yang_Portfolio/fullsize/pedtobus.pdf)]{target="_blank"}
 
 # Maps of Troy, NY
-The following map is an interactive map that need to be click on in order to forward to a seperate page. It shows the work from home population of Troy, NY, which can be part of a study on the impact of COVID.
+The following map is an interactive map that need to be click on in order to forward to a separate page. It maps the vacancy property of Troy, NY
 
 * Displaying data on an interactive map
 
